@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Movie Gif](Movies.gi)
+![Movie Gif](Movies.gif)
 
 
 
